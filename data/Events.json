@@ -1,0 +1,44 @@
+[
+  {
+    "Id": "e1",
+    "Target": "c1",
+    "Effect": 1200,
+    "Title": "Test event 1",
+    "Content": "Test event 1 just happened"
+  },
+  {
+    "Id": "e2",
+    "Target": "c2",
+    "Effect": -1200,
+    "Title": "Test event 2",
+    "Content": "Test event 2 just happened"
+  },
+  {
+    "Id": "e3",
+    "Target": "c3",
+    "Effect": 1200,
+    "Title": "Test event 3",
+    "Content": "Test event 3 just happened"
+  },
+  {
+    "Id": "ge1",
+    "Effect": 1200,
+    "Target": "global",
+    "Title": "Test global event 1",
+    "Content": "Test global event 1 just happened"
+  },
+  {
+    "Id": "ge2",
+    "Effect": -1200,
+    "Target": "global",
+    "Title": "Test global event 2",
+    "Content": "Test global event 2 just happened"
+  },
+  {
+    "Id": "ge3",
+    "Effect": 1200,
+    "Target": "global",
+    "Title": "Test global event 3",
+    "Content": "Test global event 3 just happened"
+  }
+]

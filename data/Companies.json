@@ -1,0 +1,23 @@
+[
+  {
+    "Id": "c1",
+    "Industry": "testIndustry1",
+    "Name": "Test Company 1",
+    "Description": [ "This is a test company 1" ],
+    "SharePrice": 100
+  },
+  {
+    "Id": "c2",
+    "Industry": "testIndustry2",
+    "Name": "Test Company 2",
+    "Description": [ "This is a test company 2" ],
+    "SharePrice": 100
+  },
+  {
+    "Id": "c3",
+    "Industry": "testIndustry3",
+    "Name": "Test Company 3",
+    "Description": [ "This is a test company 3" ],
+    "SharePrice": 100
+  }
+]
