@@ -1,0 +1,32 @@
+[
+  {
+    "Id": "gn1",
+    "Target": "All",
+    "Title": "Test Global News One",
+    "Content": [
+      "Test Global News One just happened",
+      "That's super crazy!"
+    ],
+    "Effect": 1200
+  },
+  {
+    "Id": "gn2",
+    "Target": "All",
+    "Title": "Test Global News Two",
+    "Content": [
+      "Test Gloabal News Two just happened",
+      "That's super crazy!"
+    ],
+    "Effect": 1200
+  },
+  {
+    "Id": "gn3",
+    "Target": "All",
+    "Title": "Test Global News Three",
+    "Content": [
+      "Test Global News Three just happened",
+      "That's super crazy!"
+    ],
+    "Effect": 1200
+  }
+]

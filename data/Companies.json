@@ -1,0 +1,32 @@
+[
+  {
+    "Id": "c1",
+    "Sphere": "Test Sphere One",
+    "Name": "Test Company One",
+    "Description": [
+      "This is a description of Test Company One",
+      "Also it supports multiple lines"
+    ],
+    "SharePrice": 1500
+  },
+  {
+    "Id": "c2",
+    "Sphere": "Test Sphere Two",
+    "Name": "Test Company Two",
+    "Description": [
+      "This is a description of Test Company Two",
+      "Also it supports multiple lines"
+    ],
+    "SharePrice": 1500
+  },
+  {
+    "Id": "c3",
+    "Sphere": "Test Sphere Three",
+    "Name": "Test Company Three",
+    "Description": [
+      "This is a description of Test Company Three",
+      "Also it supports multiple lines"
+    ],
+    "SharePrice": 1500
+  }
+]

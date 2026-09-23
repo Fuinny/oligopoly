@@ -1,0 +1,32 @@
+[
+  {
+    "Id": "n1",
+    "Target": "Test Sphere One",
+    "Title": "Test News One",
+    "Content": [
+      "Test News One just happened",
+      "That's crazy!"
+    ],
+    "Effect": 1200
+  },
+  {
+    "Id": "n2",
+    "Target": "Test Sphere Two",
+    "Title": "Test News Two",
+    "Content": [
+      "Test News Two just happened",
+      "That's crazy!"
+    ],
+    "Effect": 1200
+  },
+  {
+    "Id": "n3",
+    "Target": "Test Sphere Three",
+    "Title": "Test News Three",
+    "Content": [
+      "Test News Three just happened",
+      "That's crazy!"
+    ],
+    "Effect": 1200
+  }
+]
