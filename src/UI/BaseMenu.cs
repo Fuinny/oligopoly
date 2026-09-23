@@ -3,7 +3,8 @@ namespace Oligopoly.UI;
 internal abstract class BaseMenu<TResult>
 {
     private protected bool Exit { get; set; } = false;
-    private protected int SelectedIndex { get; set; } = 0;
+
+    internal int SelectedIndex { get; set; } = 0;
 
     private protected abstract void DrawContent();
     private protected abstract void HandleKeyPress(ConsoleKeyInfo keyPressedInfo);
